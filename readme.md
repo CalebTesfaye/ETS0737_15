@@ -1,1 +1,2 @@
-The str.index() method is used to locate the starting index of the first occurrence of a specified substring within a given string.  It allows you to optionally specify start and end indices to narrow the search範囲. If the substring is not found, it raises a ValueError.
+str.startswith(prefix, [start, end]): Checks if the string begins with a prefix; returns True or False.
+This method checks  method checks if a string starts with a given prefix.
