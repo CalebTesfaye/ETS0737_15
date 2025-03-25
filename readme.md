@@ -1,2 +1,1 @@
-str.startswith(prefix, [start, end]): Checks if the string begins with a prefix; returns True or False.
-This method checks  method checks if a string starts with a given prefix.
+The endswith() method in Python is a string method that checks if a string ends with a specified suffix. It returns True if the string ends with the suffix, and False otherwise.
