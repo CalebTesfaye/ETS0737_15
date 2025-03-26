@@ -1,0 +1,1 @@
+The str.count() method in Python is used to count the number of occurrences of a substring within a string.
