@@ -1,0 +1,1 @@
+The str.strip() method in Python is used to remove leading and trailing characters from a string. By default, it removes whitespace characters (spaces, tabs, newlines). However, you can also specify a set of characters to remove.
