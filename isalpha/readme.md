@@ -1,0 +1,1 @@
+The isalpha() method returns True if all characters in the string are alphabetic (letters) and there is at least one character. It returns False otherwise.
