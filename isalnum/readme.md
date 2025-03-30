@@ -1,0 +1,1 @@
+The isalnum() method returns True if all characters in the string are alphanumeric (letters or digits) and there is at least one character. Otherwise, it returns False.
