@@ -1,0 +1,1 @@
+The format() method is used for string formatting. It allows you to insert values into placeholders within a string. Placeholders are defined using curly braces {}. You can use positional arguments, keyword arguments, and format specifiers.
