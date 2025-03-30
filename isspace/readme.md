@@ -1,0 +1,1 @@
+The isspace() method returns True if all characters in the string are whitespace characters (spaces, tabs, newlines, etc.) and there is at least one character. Otherwise, it returns False.
