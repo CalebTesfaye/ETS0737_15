@@ -1,0 +1,1 @@
+The str.encode() method converts a string into a sequence of bytes. It takes an encoding parameter (e.g., 'utf-8', 'ascii', 'latin-1') to specify how the characters should be encoded. If no encoding is specified, 'utf-8' is used by default.

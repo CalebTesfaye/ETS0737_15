@@ -1,0 +1,1 @@
+The len() function returns the number of items in an object. It can be used with strings, lists, tuples, dictionaries, and other iterable objects.

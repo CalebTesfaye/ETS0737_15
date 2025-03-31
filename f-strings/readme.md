@@ -1,0 +1,1 @@
+f-strings provide a concise and readable way to embed expressions inside string literals for formatting. They are prefixed with the letter 'f' or 'F' and allow you to include variables and expressions directly within curly braces {}
