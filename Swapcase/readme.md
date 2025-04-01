@@ -1,0 +1,1 @@
+The swapcase() method is a built-in Python string function that returns a new string in which all uppercase letters are converted to lowercase, and all lowercase letters are converted to uppercase.
