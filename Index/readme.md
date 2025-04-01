@@ -1,0 +1,1 @@
+The str.index() method is used to locate the starting index of the first occurrence of a specified substring within a given string.  It allows you to optionally specify start and end indices to narrow the search. If the substring is not found, it raises a ValueError.
