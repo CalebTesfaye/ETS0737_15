@@ -1,0 +1,1 @@
+This method returns True if all cased characters in the string are lowercase and there is at least one cased character. Otherwise, it returns False.    Cased characters are letters that have uppercase and lowercase forms (e.g., 'a', 'b', 'A', 'B'). Characters that are not cased (e.g., numbers, symbols, spaces) are ignored.

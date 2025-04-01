@@ -1,0 +1,1 @@
+The str.upper() method returns a copy of the string in which all lowercase characters have been converted to uppercase. It does not modify the original string; instead, it creates and returns a new string with the uppercase transformations. Characters that are not lowercase (such as uppercase letters, numbers, and symbols) remain unchanged.
