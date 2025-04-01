@@ -1,0 +1,1 @@
+The find() method is a built-in Python string method that helps you locate the position of a substring within a larger string.  Specifically, it returns the index of the first occurrence of the substring. If the substring is not found, it returns -1.
