@@ -1,0 +1,1 @@
+The `extend()` method is used to add all elements of an iterable (e.g., list, tuple, string, etc.) to the end of the current list.
