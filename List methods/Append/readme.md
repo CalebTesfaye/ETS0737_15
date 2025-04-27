@@ -1,0 +1,1 @@
+In Python, the append() method is used with lists to add a single element to the end of the list. It modifies the list in place and does not return a new list.

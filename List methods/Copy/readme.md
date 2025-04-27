@@ -1,0 +1,1 @@
+The `copy()` method is used to return a shallow copy of the list. It creates a new list and inserts references to the original elements in the new list. It does not modify the original list.
