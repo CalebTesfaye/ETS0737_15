@@ -1,0 +1,1 @@
+The `index()` method is used to find the index of the first occurrence of the specified element in the list. If the element is not found, it raises a ValueError.
