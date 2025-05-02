@@ -1,0 +1,1 @@
+The `sort()` method is used to sort the elements of the list in place. It sorts the elements in ascending order by default. The sorted list is not returned, but the list is modified in place. It returns None.

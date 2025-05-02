@@ -1,0 +1,1 @@
+The `reverse()` method is used to reverse the elements of the list. It reverses the elements in place and does not return a new list. It returns None.
