@@ -1,0 +1,1 @@
+creates a new dictionary with keys from the given iterable and all values set to  the specified value.

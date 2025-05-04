@@ -1,0 +1,1 @@
+removes all items from the dictionary

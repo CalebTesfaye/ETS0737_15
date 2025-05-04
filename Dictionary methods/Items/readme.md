@@ -1,0 +1,1 @@
+ Returns a view object that displays a list of dictionary's key-value tuple pairs.
