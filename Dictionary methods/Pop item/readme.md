@@ -1,0 +1,1 @@
+Removes and returns the last inserted key-value pair as a tuple.

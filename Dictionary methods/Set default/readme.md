@@ -1,0 +1,1 @@
+Returns the value of a key. If the key is not present, it inserts the key with the specified default value.

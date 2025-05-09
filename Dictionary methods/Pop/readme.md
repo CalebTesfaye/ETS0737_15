@@ -1,0 +1,1 @@
+Removes and returns the value of the specified key. If key is not found, returns default

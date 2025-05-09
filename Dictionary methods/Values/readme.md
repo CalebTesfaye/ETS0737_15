@@ -1,0 +1,1 @@
+Returns a view object of all values in the dictionary.
