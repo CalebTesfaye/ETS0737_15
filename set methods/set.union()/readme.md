@@ -1,0 +1,2 @@
+
+The `union()` method returns a new set that contains all unique elements from the original set and one or more specified sets. It performs a union operation, merging all distinct elements without duplicates.

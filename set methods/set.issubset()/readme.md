@@ -1,0 +1,2 @@
+
+The `issubset()` method checks whether all elements of the original set are contained within another set. It returns `True` if the original set is entirely contained within the other, and `False` otherwise. It is commonly used in inclusion checks for security rules, permissions, or data filtering.

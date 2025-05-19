@@ -1,0 +1,2 @@
+
+The `intersection()` method returns a new set containing only the elements that are common to all specified sets. It does not modify the original set. This is useful when you want to extract shared elements across multiple collections.

@@ -1,0 +1,2 @@
+
+The `issuperset()` method checks whether the original set contains **all** elements of another set. It returns `True` if the original set is a superset of the specified set, and `False` otherwise. It’s the inverse of `issubset()` and useful when validating whether a set fully encompasses another.

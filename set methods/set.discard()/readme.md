@@ -1,0 +1,2 @@
+
+The `discard()` method removes the specified element from the set if it is present. If the element is not found, it does nothing and raises no error. This makes it safer than `remove()` when you're unsure if the item exists in the set.

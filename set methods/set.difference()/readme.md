@@ -1,0 +1,2 @@
+
+The `difference()` method returns a new set containing all elements that are in the original set but **not** in the specified set(s). It does not modify the original set. This is useful when you want to isolate unique elements relative to another collection.

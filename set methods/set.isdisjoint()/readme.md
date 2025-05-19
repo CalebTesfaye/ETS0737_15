@@ -1,0 +1,2 @@
+
+The `isdisjoint()` method returns `True` if the original set has no elements in common with the specified set(s). If they share at least one element, it returns `False`. This is a quick way to test for complete separation between datasets.

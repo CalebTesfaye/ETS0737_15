@@ -1,0 +1,2 @@
+
+The `pop()` method removes and returns an arbitrary element from the set. Since sets are unordered, you can't predict which element will be removed. If the set is empty, calling `pop()` raises a `KeyError`.

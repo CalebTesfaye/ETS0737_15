@@ -1,0 +1,2 @@
+
+The `copy()` method returns a shallow copy of the set. This means it creates a new set object with the same elements, but modifying the new set will not affect the original. It’s useful when you need to preserve the original while experimenting with the copy.

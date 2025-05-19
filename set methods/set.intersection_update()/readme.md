@@ -1,0 +1,2 @@
+
+The `intersection_update()` method updates the original set by keeping only the elements that are common to all specified sets. It modifies the set in place rather than returning a new one. This is efficient when you want to refine a set based on shared content.

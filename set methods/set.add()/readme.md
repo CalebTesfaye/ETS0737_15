@@ -1,0 +1,2 @@
+
+The `add()` method inserts a single specified element into a set. If the element is already present, the set remains unchanged. This operation is performed in constant time and is useful for building a set incrementally.
