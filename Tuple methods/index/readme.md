@@ -1,0 +1,1 @@
+index(value): Returns the index of the first occurrence of a value in the tuple.

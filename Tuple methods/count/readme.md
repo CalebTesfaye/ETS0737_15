@@ -1,0 +1,1 @@
+count(value): Returns the number of times a value appears in the tuple.
